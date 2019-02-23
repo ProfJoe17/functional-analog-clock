@@ -3,4 +3,4 @@
 
 Analog clock created in html, css and javascript.
 
-Watch it work <a href="profjoe-clock.000webhostapp.com">here.</a>
+Watch it work <a href="index.html">here</a> or here:   profjoe-clock.000webhostapp.com
